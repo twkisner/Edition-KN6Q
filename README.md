@@ -14,4 +14,5 @@ I don't complie it using the gulp stuff like the official Edition theme.  The Sc
 # Copyright & License
 
 Copyright (c) 2021 Thomas Kisner, KN6Q - Released under the [MIT license](LICENSE).
+
 Copyright (c) 2013-2021 Ghost Foundation - Released under the [MIT license](LICENSE).
