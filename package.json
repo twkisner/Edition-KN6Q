@@ -1,16 +1,16 @@
 {
-    "name": "edition",
-    "description": "A clean, minimal newsletter theme for the Ghost publishing platform",
-    "version": "1.0.0",
+    "name": "kn6q2",
+    "description": "Blog theme",
+    "version": "2.0.0",
     "engines": {
         "ghost": ">=4.0.0",
         "ghost-api": "v4"
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Thomas Kisner",
+        "email": "tom@kn6q.org",
+        "url": "https://kn6q.org"
     },
     "keywords": [
         "ghost",
@@ -50,7 +50,7 @@
     "devDependencies": {
         "autoprefixer": "10.2.6",
         "beeper": "2.1.0",
-        "cssnano": "5.0.5",
+        "cssnano": "5.0.4",
         "gscan": "4.0.2",
         "gulp": "4.0.2",
         "gulp-concat": "2.6.1",
