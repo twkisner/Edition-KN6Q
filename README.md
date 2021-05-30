@@ -1,34 +1,17 @@
-# Edition
+# Edition-KN6Q
 
-The newsletter theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Edition! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Edition/releases) page.
+This is my fork of the Edition theme for [Ghost](http://github.com/tryghost/ghost/). 
+
+I noticed it was close to the OG Casper theme from Ghost 1.0, so I modified it to not have the subscriber stuff and display the blog image instead.
 
 &nbsp;
 
 # Development
 
-Edition styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need [Node](https://nodejs.org/), [Yarn](https://yarnpkg.com/) and [Gulp](https://gulpjs.com) installed globally. After that, from the theme's root directory:
+I don't complie it using the gulp stuff like the official Edition theme.  The Screen.css loaded in Default, not a built version.
 
-```bash
-# Install
-yarn
-
-# Run build & watch for changes
-$ yarn dev
-```
-
-Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/` automatically.
-
-The `zip` Gulp task packages the theme files into `dist/<theme-name>.zip`, which you can then upload to your site.
-
-```bash
-# create .zip file
-yarn zip
-```
-
-# PostCSS Features Used
-
-- Autoprefixer - Don't worry about writing browser prefixes of any kind, it's all done automatically with support for the latest 2 major versions of every browser.
 
 # Copyright & License
 
+Copyright (c) 2021 Thomas Kisner, KN6Q - Released under the [MIT license](LICENSE).
 Copyright (c) 2013-2021 Ghost Foundation - Released under the [MIT license](LICENSE).
