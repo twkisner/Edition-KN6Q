@@ -1,6 +1,6 @@
 # Edition-KN6Q
 
-This is my fork of the Edition theme for [Ghost](http://github.com/tryghost/ghost/). 
+This is my fork of the [Edition](https://github.com/TryGhost/Edition) theme for [Ghost](http://github.com/tryghost/ghost/). 
 
 I noticed it was close to the OG Casper theme from Ghost 1.0, so I modified it to not have the subscriber stuff and display the blog image instead.
 
