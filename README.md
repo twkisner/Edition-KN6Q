@@ -1,4 +1,4 @@
-# Edition-KN6Q
+# KN6Q-Theme
 
 This is my fork of the [Edition](https://github.com/TryGhost/Edition) theme for [Ghost](http://github.com/tryghost/ghost/). 
 
@@ -7,6 +7,8 @@ I noticed it was close to the OG Casper theme from Ghost 1.0, so I modified it t
 &nbsp;
 
 ![ExamplePage](https://github.com/twkisner/KN6Q-Theme/blob/master/troop243azle-webpage.JPG)
+
+I also changed some of the fonts other minor things and plan to fiddle with it more as time permits.
 
 
 # Development
